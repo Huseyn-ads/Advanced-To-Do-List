@@ -1,8 +1,24 @@
-# React + Vite
+📝 Project Description (для README.md или GitHub Description):
+Task Manager App with React Context
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple task management application built with React. Users can create tasks, assign priorities and due dates, mark tasks as completed, and toggle visibility of task sections. The app uses React Context API for global state management.
 
-Currently, two official plugins are available:
+✨ Features
+Add tasks with priority and due date
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Mark tasks as completed
+
+View completed tasks separately
+
+Toggle visibility of task form and task list
+
+(Sorting buttons are included, logic can be extended)
+
+Responsive and minimal UI
+
+🛠️ Built With
+React
+
+React Context API
+
+CSS Modules / Plain CSS
